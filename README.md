@@ -18,17 +18,21 @@ Create React App doesn’t handle backend logic or databases, it just creates a 
 
 ``` sh
 npx create-react-app my-app --template typescript
-cd my-app
-npm start
 ```
-
-<br>
 
 #### JavaScript
 
 ``` sh
 npx create-react-app my-app
-cd my-app
+```
+
+<br>
+
+#### Develop
+
+To run locally.
+
+``` sh
 npm start
 ```
 
