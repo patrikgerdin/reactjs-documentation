@@ -45,3 +45,17 @@ To deploy to production, and create an optimized build of your app in the `build
 ``` sh
 npm run build
 ```
+
+<br>
+
+## React Router
+
+[reactrouter.com](https://reactrouter.com)
+
+[Documentation (Web)](https://reactrouter.com/web/guides/quick-start)
+
+React Router is a collection of navigational components that compose declaratively with your application. Whether you want to have bookmarkable URLs for your web app or a composable way to navigate in React Native.
+
+``` sh
+npm i react-router-dom @types/react-router-dom
+```
